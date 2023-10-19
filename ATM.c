@@ -5,7 +5,6 @@
         printf("\n\n\t\t\t****INSERT THE CARD HERE****\n\n");
         printf("\t\tENTER PIN =   ");
         scanf("%d",&pass);
-        if (pass==151997)
         if (pass==1234)
         {    
             printf("\n\t WITHDRWAL AMOUNT :-   ");
