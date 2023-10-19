@@ -6,6 +6,7 @@
         printf("\t\tENTER PIN =   ");
         scanf("%d",&pass);
         if (pass==151997)
+        {    
             printf("\n\t WITHDRWAL AMOUNT :-   ");
             scanf("%d",&amt);
             if (amt<=50000)
@@ -17,3 +18,4 @@
         }
         else
             printf("\n\n\t\tWrong Password");
+    }
