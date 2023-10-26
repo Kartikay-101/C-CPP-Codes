@@ -36,7 +36,7 @@
 
 <h3>Cloning the Repository</h3>
 
-<pre><code>git clone https://github.com/your-username/c-cpp-repository.git
+<pre><code>git clone https://github.com/Kartikay-101/c-cpp-repository.git
 cd c-cpp-repository
 </code></pre>
 
